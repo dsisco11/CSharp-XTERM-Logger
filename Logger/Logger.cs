@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Copyright 2017 David Sisco 
+ */
+
+using System;
 using System.IO;
 using System.Linq;
 

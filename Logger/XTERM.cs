@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Copyright 2017 David Sisco 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
